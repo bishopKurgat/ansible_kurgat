@@ -1,3 +1,8 @@
 10.10.10.26
 10.10.10.27
 10.10.10.28
+
+10.10.10.26 ansible_python_interpreter=/usr/bin/python3
+10.10.10.27 ansible_python_interpreter=/usr/bin/python3
+10.10.10.28 ansible_python_interpreter=/usr/bin/python3
+
